@@ -40,4 +40,3 @@
  <h3>Contact me</h3>
 </div>
 
-![snake gif](https://github.com/gabrielgarcia96/gabrielgarcia96/blob/output/github-contribution-grid-snake.svg)
