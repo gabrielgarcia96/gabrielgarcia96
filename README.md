@@ -1,12 +1,7 @@
 ## Hello, I'm a C# Developer 👋
 
 
-<div>
-  <a href="https://beacons.ai/gabrielgarcia96">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielgarcia96&show_icons=true" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgarcia96&layout=compact" />
-  </a>
-</div>
+
 
 <div>
   <h3>Frontend</h3>
